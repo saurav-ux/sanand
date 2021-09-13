@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+}
+.nav_top{
+    display: flex;
+    box-shadow: 0px 3px 15px 0px rgb(224, 224, 224);
+    z-index: 9;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+  
+}
+.nav{
+    display: inline-flex;
+}
+.mlogo1{
+    margin-right: 400px;
+    margin-left: 50px;
+}
+.mlogo2{
+    margin-right: 300px;
+    margin-top: 15px;
+}
+.mlogo3{
+    margin-right: 20px;
+    margin-top: 15px;
+    
+}
+.bag1{
+    margin-bottom: 10px;
+    display: grid;
+    width: 40%;
+}
+.bag11{
+    border: lightgray solid thin;
+    
+padding: 42px;
+margin-bottom: 10px;
+}
+.bag11a p{
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: -10px;
+
+}
+
+.bag11b{
+   margin-top: -35px;
+   margin-bottom: 30px;
+}
+.bag11b button{
+  float: right;
+   
+    border-style: none;
+background-color: white;
+    border: solid hotpink thin;
+    color: hotpink;
+       font-weight: bold;
+padding: 10px;
+border-radius: 5px;   
+}
+.bag12{
+ border: lightgray solid thin;  
+padding: 22px;
+}
+#b1{
+    font-weight: bold;
+}
+.bag13{
+   padding: 17px;
+}
+.bag14{
+    display: flex;
+    border: lightgray solid thin;  
+    padding: 10px;
+}
+.bag14 img{
+    width: 80%;
+}
+.bag14a{
+    width: 20%;
+}
+.bag14b{
+    width: 50%;
+}
+.bag14b button{
+    border: none;
+    font-weight: bold;
+}
+.bag14c{
+    width: 30%;
+    margin-left: 90px;
+}
+#b3{
+    font-size: small;
+    color: rgb(170, 168, 168);
+}
+#b4{
+    color: rgb(252, 57, 57);
+}
+.bag141a{
+    border: lightgray solid thin;
+    border-top: none;  
+    padding: 5px;
+}
+.bag141a button{
+    color: rgb(121, 120, 120);
+    font-weight: bold;
+    padding: 12px;
+    background-color: white;
+    border: none;
+}
+#b5{
+    border-right: lightgray solid thin;
+}
+.bag15{
+    border: lightgray solid thin;
+   
+}
+.bag151{
+    margin: 20px;
+}
+.bag15a{
+    border-top: lightgray solid thin;
+  
+}
+.bag{
+    margin-left: 450px;
+    width: 100%;
+    cursor: pointer;
+}
+.bag15b img{
+width: 5%;
+}
+#b6{
+    color: green;
+    font-weight: normal;
+}
+#b7{
+    color: rgb(252, 57, 57);
+    font-weight: normal;
+}
+.bag151 cite{
+color: rgb(248, 27, 138);
+font-weight: bold;
+}
+.bag15a{
+    padding: 15px;
+}
+.bag15b {
+    background-color: rgb(231, 250, 231);
+    padding: 20px;
+    border-radius: 8px;
+}
+.bag15b cite{
+    color: green;
+    font-weight: bold;
+}
+.bag15c button{
+    border: none;
+    width: 100%;
+    background-color: rgb(253, 36, 72);
+    color: white;
+    padding: 12px;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.bag15c button:hover{
+    background-color: rgb(126, 1, 21)
+}

@@ -1,0 +1,10 @@
+body{
+    background-image: radial-gradient( red, yellow);
+}
+h1{
+    color: blue;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+}
